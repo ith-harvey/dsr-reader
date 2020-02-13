@@ -10,10 +10,10 @@ This program finds an Ethereum account's DS-Proxy and then reads its DSR balance
 
 ## Getting Started (Installation)
 
-1. **Clone the `market-maker-keeper` repository and switch into its directory:**
+1. **Clone the `dsr-reader` repository and switch into its directory:**
 ```
-git clone https://github.com/makerdao/market-maker-keeper.git
-cd market-maker-keeper
+git clone https://github.com/ith-harvey/dsr-reader.git
+cd dsr-reader
 ```
 2. **Initializing the git submodules that will bring in both the pymaker and the pyexchange library.**
 ```
